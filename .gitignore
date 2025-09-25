@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE.vscode/
+.idea/
+
+# Docker
+postgres_data/
+
+# Build
+frontend/dist/
+frontend/.vite/
