@@ -68,7 +68,7 @@ const Dashboard: React.FC = () => {
           className="text-center mb-12"
         >
           <h2 className="text-4xl font-bold text-gray-800 mb-4">
-            🌟 Bienvenido a LottoZen
+            🌟 LottoZen
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Tu compañero inteligente para jugar lotería de manera responsable y consciente
